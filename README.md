@@ -1,4 +1,4 @@
-# ShoppingListApp(Listed)🎵
+# ShoppingListApp(Listed)📃
 
 A beautiful Jetpack Compose Shopping List App using Room Database.
 
@@ -10,11 +10,11 @@ A beautiful Jetpack Compose Shopping List App using Room Database.
 
 ## 📸 Screenshots
 
-### 🏠 Home View
-![Home] (screenshots/list_app_ss1.jpg)
+### 🏠  Home View
+![Home](screenshots/list_app_ss1.jpg)
 
-### 🏠 Add View
-![Add] (screenshots/List App ss2.jpg)
+### ➕ Add View
+![Add](screenshots/list_app_ss2.jpg)
 
-### 🏠 Edit View
-![Edit] (screenshots/List App ss3.jpg)
+### 📝 Edit View
+![Edit](screenshots/list_app_ss3.jpg)
