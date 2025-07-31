@@ -11,10 +11,10 @@ A beautiful Jetpack Compose Shopping List App using Room Database.
 ## 📸 Screenshots
 
 ### 🏠 Home View
-![Home](screenshots/List App ss1.jpg)
+![Home] (screenshots/List App ss1.jpg)
 
 ### 🏠 Add View
-![Add](screenshots/List App ss2.jpg)
+![Add] (screenshots/List App ss2.jpg)
 
 ### 🏠 Edit View
-![Edit](screenshots/List App ss3.jpg)
+![Edit] (screenshots/List App ss3.jpg)
