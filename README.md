@@ -1,17 +1,20 @@
-# MyMusicApp 🎵
+# ShoppingListApp(Listed)🎵
 
-A beautiful Jetpack Compose music player built with ExoPlayer and Room.
+A beautiful Jetpack Compose Shopping List App using Room Database.
 
 ## 🔥 Features
-- Play, pause, and seek songs
-- Save favorites
-- Shuffle & loop modes
-- Beautiful Now Playing screen
+- Store different types of shopping items
+- Store with different units of quantity measurement
+- Edit name or quantity after saving
+- Delete items easily
 
 ## 📸 Screenshots
 
-### 🎧 Now Playing Screen
-![Now Playing](screenshots/List App ss1.jpg)
+### 🏠 Home View
+![Home](screenshots/List App ss1.jpg)
 
-### 🏠 Home Screen
-![Home Screen](screenshots/List App ss2.jpg)
+### 🏠 Add View
+![Add](screenshots/List App ss2.jpg)
+
+### 🏠 Edit View
+![Edit](screenshots/List App ss3.jpg)
